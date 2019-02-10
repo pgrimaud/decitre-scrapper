@@ -1,2 +1,2 @@
 # decitre-scrapper
-Little scrapper for decitre.fr
+Little scrapper for https://www.decitre.fr

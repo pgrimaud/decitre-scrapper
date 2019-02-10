@@ -1,0 +1,22 @@
+{
+  "name": "pgrimaud/decitre-scrapper",
+  "type": "library",
+  "description": "Little scrapper for https://www.decitre.fr",
+  "homepage": "https://github.com/pgrimaud/decitre-scrapper",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pierre Grimaud",
+      "email": "grimaud.pierre@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Decitre\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1",
+    "symfony/panther": "^0.2.0"
+  }
+}
